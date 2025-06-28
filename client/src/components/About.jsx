@@ -31,8 +31,8 @@ export default function About() {
         }, '-=0.5')
     })
   return (
-    <div id="about">
-        <div className="mb-16 md:px-0 px-5">
+    <div id="about" className='px-5'>
+        <div className="mb-16 md:px-0">
             <div className='content'>
                 <div className='md:col-span-8'>
                     <p className='badge'>Best Cocktails</p>
