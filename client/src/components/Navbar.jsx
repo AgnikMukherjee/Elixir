@@ -28,7 +28,7 @@ export default function Navbar() {
 
     return (
         <nav>
-            <div>
+            <div className='px-[5vw]'>
                 <a href="#home" className='flex items-center gap-2'>
                     <p className='text-3xl text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-600 font-bold'>Elixir</p>
                 </a>
