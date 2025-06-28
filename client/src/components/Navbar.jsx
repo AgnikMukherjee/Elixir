@@ -10,7 +10,7 @@ export default function Navbar() {
             scrollTrigger: {
                 trigger: "nav",
                 start: "bottom top",
-                scrub: true
+                // scrub: true
             }
         })
 
